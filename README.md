@@ -1,4 +1,4 @@
-Budget complete DIY FPV RC Airplane from Aliexpress.
+DIY FPV RC Airplane from Aliexpress.
 
 This project is about building a FPV RC airplane from separate parts instead of buying a ready-to-fly model.
 
